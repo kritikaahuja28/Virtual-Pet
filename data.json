@@ -1,0 +1,47 @@
+{
+  "petSayings": [
+    { "mood": "angry", "saying": "hoooo" },
+    { "mood": "hungry", "saying": "ennn" },
+    { "mood": "cheerful", "saying": "uuhoo" },
+    { "mood": "joy", "saying": "yehh" },
+    { "mood": "sad", "saying": "hnnm" },
+    { "mood": "alert", "saying": "hoooo" },
+    { "mood": "engaged", "saying": "aehh" },
+    { "mood": "relaxed", "saying": "ummm" },
+    { "mood": "playful", "saying": "huhuu" },
+    { "mood": "frisky", "saying": "ehhhu" },
+    { "mood": "dominant", "saying": "ahen" },
+    { "mood": "aggressive", "saying": "hhhhttt" },
+    { "mood": "fearful", "saying": "ahaaan" },
+    { "mood": "submissive", "saying": "yawn" },
+    { "mood": "scared", "saying": "mmmm" },
+    { "mood": "affectionate", "saying": "aww" },
+    { "mood": "happy", "saying": "hhehuuuu" },
+    { "mood": "content", "saying": "aa" },
+    { "mood": "annoyed", "saying": "oomm" },
+    { "mood": "needy", "saying": "iiimmm" }
+  ],
+
+  "foods": [
+    { "name": "celery", "foodPoints": 2, "sick": 0.6 },
+    { "name": "celery", "foodPoints": 12, "sick": 0.6 },
+    { "name": "carrot", "foodPoints": 8, "sick": 0.5 },
+    { "name": "grapes", "foodPoints": 2, "sick": 0.9 },
+    { "name": "raisins", "foodPoints": 1, "sick": 0.9 },
+    { "name": "salt", "foodPoints": 3, "sick": 0.8 },
+    { "name": "peanutbutter", "foodPoints": 11, "sick": 0.6 },
+    { "name": "eggs", "foodPoints": 9, "sick": 0.1 },
+    { "name": "toast", "foodPoints": 2, "sick": 0.6 },
+    { "name": "bread", "foodPoints": 10, "sick": 0.1 },
+    { "name": "salmon", "foodPoints": 8, "sick": 0.2 },
+    { "name": "chocolate", "foodPoints": 7, "sick": 1 },
+    { "name": "cheese", "foodPoints": 5, "sick": 0.5 },
+    { "name": "blueberries", "foodPoints": 2, "sick": 0.2 },
+    { "name": "popcorn", "foodPoints": 8, "sick": 0.7 },
+    { "name": "cashews", "foodPoints": 6, "sick": 0.5 },
+    { "name": "macadamia nuts", "foodPoints": 2, "sick": 0.9 },
+    { "name": "almonds", "foodPoints": 2, "sick": 0.6 },
+    { "name": "pineapple", "foodPoints": 4, "sick": 0.4 },
+    { "name": "chicken", "foodPoints": 20, "sick": 0.1 }
+  ]
+}
